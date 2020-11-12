@@ -1,4 +1,4 @@
-import { template } from 'underscore';
+import template from '@silvermine/undertemplate';
 import Backbone from 'backbone';
 import fetch from 'utils/fetch';
 

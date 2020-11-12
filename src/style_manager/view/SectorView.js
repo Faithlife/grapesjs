@@ -1,5 +1,5 @@
 import Backbone from 'backbone';
-import { template } from 'underscore';
+import template from '@silvermine/undertemplate';
 import PropertiesView from './PropertiesView';
 
 export default Backbone.View.extend({

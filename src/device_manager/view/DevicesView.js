@@ -1,4 +1,4 @@
-import { template } from 'underscore';
+import template from '@silvermine/undertemplate';
 import Backbone from 'backbone';
 
 export default Backbone.View.extend({
